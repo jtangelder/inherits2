@@ -1,0 +1,21 @@
+{
+    "name": "inherits2",
+    "version": "0.0.1",
+    "description": "util.inherits method with extra argument to add properties",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha test/test.js"
+    },
+    "keywords": [
+        "inherits"
+    ],
+    "repository": "https://github.com/jtangelder/inherits2.git",
+    "author": "J. Tangelder",
+    "license": "MIT",
+    "dependencies": {
+        "inherits": "^2.0.1"
+    },
+    "devDependencies": {
+        "mocha": "^1.21.4"
+    }
+}
