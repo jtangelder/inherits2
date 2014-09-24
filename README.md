@@ -2,7 +2,7 @@ inherits2
 =========
 
 [util.inherits](http://nodejs.org/api/util.html#util_util_inherits_constructor_superconstructor)
-with an extra argument to add properties.
+with an extra argument to add properties. Depends on [inherits](npmjs.org/package/inherits).
 
 ````js
 var inherits = require('inherits2');
